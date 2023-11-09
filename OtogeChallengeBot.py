@@ -51,12 +51,13 @@ def ParseDifficultAndSelectNum(content, mode='insane'):
     print(difficult, select_num)
     return difficult, select_num
     
-client_intents = discord.Intents.all()
-client = discord.Client(intents=client_intents)
+# client_intents = discord.Intents.all()
+# client = discord.Client(intents=client_intents)
+client = discord.Client()
 
 @client.event
 async def on_read():
-    print("on rady")
+    print("on ready")
     print(discord.__version__)
     
 @client.event
