@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
-page_num_list = ['335', '234', '13', '14', '15', '436', '17', '18', '19', ]
+page_num_list = ['335', '234', '13', '14', '15', '17', '18', '19', '436']
 
 lower_level = 11
 
