@@ -52,7 +52,10 @@ def ParseDifficultAndSelectNum(content, mode='insane'):
     return difficult, select_num
     
 
-client = discord.Client()
+client = discord.Client(
+    intents=discord.Intents.all(), 
+    activity=discord.Game("ENDYMION"),
+)
 
 @client.event
 async def on_read():
