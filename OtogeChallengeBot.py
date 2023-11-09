@@ -1,5 +1,6 @@
 import RandomSelect
 import discord
+from discord import app_commands
 import os
 
 UNDEF_DIFF = '1-25'
@@ -51,18 +52,18 @@ def ParseDifficultAndSelectNum(content, mode='insane'):
     print(difficult, select_num)
     return difficult, select_num
     
-# client_intents = discord.Intents.all()
-# client = discord.Client(intents=client_intents)
-client = discord.Client()
-
-@client.command(name="hoge", description="return hoge")
-async def hoge(ctx: discord.ApplicationContext):
-    await ctx.respond("hoge")
+client_intents = discord.Intents.default()
+client = discord.Client(intents=client_intents)
+tree = app_commands.CommandTree(client)
 
 @client.event
-async def on_read():
+async def on_ready():
     print("on ready")
-    print(discord.__version__)
+    await tree.sync()
+
+@tree.command(name="hoge", description="fuga")
+async def test_command(interaction: discord.Interaction):
+    await interaction.response.send_message("piyo")
     
 @client.event
 async def on_message(message):
