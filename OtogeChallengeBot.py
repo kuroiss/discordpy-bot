@@ -55,6 +55,10 @@ def ParseDifficultAndSelectNum(content, mode='insane'):
 # client = discord.Client(intents=client_intents)
 client = discord.Client()
 
+@client.command(name="hoge", description="return hoge")
+async def hoge(ctx: discord.ApplicationContext):
+    await ctx.respond("hoge")
+
 @client.event
 async def on_read():
     print("on ready")
