@@ -51,15 +51,7 @@ def ParseDifficultAndSelectNum(content, mode='insane'):
     print(difficult, select_num)
     return difficult, select_num
     
-client_intents = discord.Intents.default()
-client_intents.messages = True
-client_intents.guild_messages = True
-client_intents.dm_messages = True
-client_intents.typing = True
-client_intents.guild_typing = True
-client_intents.dm_typing = True
-client_intents.message_content = True
-
+client_intents = discord.Intents.all()
 client = discord.Client(intents=client_intents)
 
 @client.event
