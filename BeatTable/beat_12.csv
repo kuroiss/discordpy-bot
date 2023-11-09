@@ -2,21 +2,27 @@ ver,曲名,BPM,notes,属性,詳細攻略
 7,A(A),93-191,1260,ソフラン、同時押し、階段、ラス殺し,
 11,AA(A),154,1834,乱打、局所発狂,
 25,AA -rebuild-(A),174,1820,乱打、局所発狂、デニム,
+29,ABSOLUTE EVIL(A),200,1778,HCN,PLATFORM X:Hideout
 21,Adularia(A),180,1449,CN、ラス殺し(二重階段),SP十段(PEN)
-27,AKASHIC BREAK(A),205,1823,,
+29,Aftermath(A),200,1828,HCN、軸,BEMANI 2021真夏の歌合戦5番勝負
+27,AKASHIC BREAK(A),205,1823,高速、軸,
 18,ALBIDA(A),185,1530,乱打、軸、皿複合,
 25,ANCHOR(A),180,1835,乱打、CN,IIDX AIR RACE ONE MORE EXTRA STAGE
 21,Ancient Scapes(A),178,1780,乱打、軸、ラス殺し,Spada†leggendaria
+29,Angel's Ladder(A),155,1800,高速トリル、連打,
 17,Almagest(A),178,1629,CN、BSS、階段,PARALLEL ROTATION ONE MORE EXTRA STAGE、SP中伝(CS INFINITAS)
+29,ALTERNATOR(A),185,1907,BSS、MSS,CastHour SPACE:Cyber House
 25,Antigravity(A),222,1591,HBSS、高速,IIDX AIR RACE
 23,AO-1(A),195,1443,皿複合、連皿、CN,Mystery Line
 24,Apocalypse(A),165,1814,CN、階段,EXPERT MODE
 25,Arca(A),185,1602,階段、縦連打,
-27,Artist(A),165,1870,,HEROIC WORKOUT!!
+29,Arkadia(A),180,1873,皿複合、トリル、軸,CastHour SPACE:FUTURE SCOPE
+27,Artist(A),165,1870,CN、連打軸,HEROIC WORKOUT!!
 28,ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS)(A),150,1752,CN,BISTRO LANDING
 17,Bad Maniacs(A),195,1656,軸押し、乱打,ONE MORE EXTRA STAGE、SP中伝(Rootage)、SP中伝(HV)
 27,BEAT PRISONER(A),155,1844,3～5本同時CN、連皿,HEROIC WORKOUT!!
 28,BIGソムタム(A),187,1688,CN,
+29,Binary Black Hole(A),190,2000,CN、デニム、ラス殺し,CastHour SPACE:Twinkroom
 16,BITTER CHOCOLATE STRIKER(A),165,1990,高密度、皿絡み,ONE MORE EXTRA STAGE、SP中伝(cop)
 28,BLACK or WHITE?(A),185,2013,CN,"X-record,LM筐体専用曲"
 19,BLACK.by X-Cross Fade(A),163,1738,連皿、ラス殺し,
@@ -41,7 +47,7 @@ ver,曲名,BPM,notes,属性,詳細攻略
 20,Confiserie(A),185,1833,二重階段、終盤発狂、ラス殺し,Café de Tran
 28,COSMIC RAY(A),195,1509,CN,召しませ！BISTROVER Asia 2エリア
 18,Dances with Snow Fairies(A),154,1623,乱打、縦連打、軸、ラス殺し,JAPAN TOUR
-27,Dans la nuit de l'éternité(A),244,1830,,SHADOW REBELLION
+27,Dans la nuit de l'éternité(A),244,1830,高速二重階段,SHADOW REBELLION
 21,DARK LEGACY(A),196,1828,皿絡み、乱打,
 26,dAuntl3ss(A),166,1775,乱打、ラス殺し,
 20,DAY DREAM(A),80-300,1075,ソフラン、縦連,LIMIT BURST
@@ -53,13 +59,14 @@ ver,曲名,BPM,notes,属性,詳細攻略
 23,DIAMOND CROSSING(A),180,1585,HCN,SP中伝(cop)
 19,DIAVOLO(A),160,1745,高速トリル、坂譜面、ラス殺し,ONE MORE EXTRA STAGE
 17,DOMINION(A),196,1636,軸、同時押し、中盤発狂,
+29,Don't believe the hype(A),210,1666,HCN、連皿,
 24,DORNWALD 〜Junge〜(A),169,1903,乱打、階段、トリル、縦連打、ラス殺し,忍々七鍵伝
-27,Double Dribble(A),210,1683,,HEROIC WORKOUT!!
+27,Double Dribble(A),210,1683,皿複合,HEROIC WORKOUT!!
 26,Drastic Dramatic(A),166,1765,乱打,蜃気楼の図書館
 26,Dr.Chemical & Killing Machine(A),165,1700,乱打,
 25,DropZ-Line-(A),50-400,1648,乱打、軸、ソフラン,FLOOR INFECTION
 26,DRUNK MONKY(A),145,1177,軸,CS DistorteD移植曲
-28,DUAL STRIKER(A),185,1960,,BEMANI 2021真夏の歌合戦5番勝負
+28,DUAL STRIKER(A),185,1960,乱打、CN,BEMANI 2021真夏の歌合戦5番勝負
 13,DUE TOMORROW(A),100-400,1073,トリル、序盤難、終盤難,元☆11(GOLDで昇格)
 23,Dynamite(A),100,1954,CN、BSS、皿複合、軸,
 22,EBONY & IVORY(A),170,1520,乱打、皿絡み,怪盗BisCoの予告状！！
@@ -81,17 +88,20 @@ ver,曲名,BPM,notes,属性,詳細攻略
 22,FANTASTIC THREE(A),185,1649,連皿、二重階段,
 14,Fascination MAXX(A),100-400,1313,高速、ソフラン、縦連、同時押し,ONE MORE EXTRA STAGE
 21,Feel The Beat(A),175,1830,皿複合,Spada†leggendaria
+29,Fegrix(A),175,1687,連皿、乱打,
 19,fffff(A),138,1624,二重階段、高速トリル,CS DJT移植曲
 28,Fire Beat(A),157-300,1392,ソフラン,ULTIMATE MOBILE連動曲　譜面変更
 14,FIRE FIRE(A),150,1405,皿、二重階段、ラス殺し,SP十段(CB)、SP十段(Rootage)、SP十段(HV)
-22,Flashes(A),180,1691,CN・BSS、皿複合,Qpronicle Chord
-27,Friction[!]Function(A),150,1634,,HEROIC WORKOUT!!
+22,Flashes(A),180,1691,CN、BSS、皿複合,Qpronicle Chord
+29,Flying Castle(A),174,1877,CN、MSS、皿複合,CastHour SPACE:Beat Showcase
+27,Friction[!]Function(A),150,1634,CN、BSS、二重階段,HEROIC WORKOUT!!
 24,FUZIN RIZIN(A),190,1929,皿絡み、乱打,忍々七鍵伝
 17,G59(A),170,2000,デニム、軸押し、高速小階段,"PARALLEL ROTATION Distorted,SP皆伝(CS INFINITAS)"
 20,GAIA(A),180,1676,乱打、螺旋階段,私立BEMANI学園、SP十段(SB)
 26,GENE(A),163,2183,乱打、皿複合,ARC SCORE
 11,gigadelic(H),173,1116,トリル、ラス殺し,SP八段(tri)、SP八段(SPA)、SP八段(PEN)、SP八段(cop)、SP八段(SB)、SP八段(CB)
 11,gigadelic(A),173,1301,トリル、皿、ラス殺し,
+29,GiGaGaHell(A),250,1687,縦連打、ラス殺し,
 24,Go Ahead!!(A),200,1413,中盤発狂、終盤易化,攻城シノバズ伝
 16,Go Beyond!!(A),200,1166,中盤発狂、終盤易化,CS DistorteD移植曲
 26,GO OVER WITH GLARE -ROOTAGE 26-(A),170,2000,皿絡み、発狂、ラス殺し,ARC SCORE
@@ -103,6 +113,7 @@ ver,曲名,BPM,notes,属性,詳細攻略
 24,HADES(A),155,1601,同時押し、皿複合、ラス殺し,攻城シノバズ伝
 19,HAERETICUS(A),208,1589,乱打、皿複合、全体難,Lincle LINK  第5弾
 26,HARD BRAIN(A),155,1914,乱打、ラス殺し,DELABITY LABORATORY
+29,hard-wired(A),208,1901,高速、HCN,CastHour SPACE:FUTURE SCOPE
 23,Highcharge Divolt(A),200,1421,HCN,Mystery Line
 20,Hollywood Galaxy(A),186,1392,CN、階段、二重階段,LIMIT BURST
 15,ICARUS(A),126-251,1301,ソフラン、中盤加速発狂、トリル,MILITARY SPLASH #2
@@ -112,7 +123,7 @@ ver,曲名,BPM,notes,属性,詳細攻略
 22,IMPLANTATION(A),145,1163,縦連、階段,Qpronicle Chord、SP十段(CB)、SP十段(Rootage)
 27,Inferno of Fomalhaut(A),150,1701,CN、高速二重トリル、連皿,SHADOW REBELLION
 25,Initiation(A),160,2018,HCN、HBSS、乱打、縦連,激走!キャノンレーサー
-28,innocent revolver(A),310,1990,,召しませ！BISTROVER Northern Landエリア
+28,innocent revolver(A),310,1990,高速階段、軸,召しませ！BISTROVER Northern Landエリア
 10,Innocent Walls(H),155,1281,縦連、壁,
 10,Innocent Walls(A),155,1446,縦連、壁,
 21,INSOMNIA(A),195,1661,皿、螺旋階段、二重階段、全押し,
@@ -132,21 +143,23 @@ ver,曲名,BPM,notes,属性,詳細攻略
 28,Level 3(A),175,1844,BSS、連皿,召しませ！BISTROVER Asia 2エリア
 20,Liberation(A),150,1905,高速トリル、乱打,
 25,"Life Is A Game ft.DD""ナカタ""Metal(A)",195,1775,ラス殺し,激走!キャノンレーサー
-27,LIGHTNING STRIKES(A),174,1639,,
+27,LIGHTNING STRIKES(A),174,1639,CN、乱打,
 20,Little Star(A),183,1635,乱打、階段,
+29,LIVE DRIVING!! feat. 花たん(A),190,1947,皿複合,
 28,LOCUS OF THE TRAVEL(A),182,1920,CN、連皿,召しませ！BISTROVER Asia 2エリア
 27,Lords Of The Roundtable(A),174,1586,HCN、BSS、連皿,HEROIC WORKOUT!!
 26,LOST TECHNOLOGIE(A),157,1822,乱打、ズレ、CN,蜃気楼の図書館
 23,M4K3 1T B0UNC3(A),150,1546,CN・BSS,Mystery Line
 26,Mächö Mönky(A),150,1588,リズム難、連皿、ラス殺し,蜃気楼の図書館
 24,Mare Nectaris(A),256,2094,高密度、縦連、坂譜面、ラス殺し,忍々七鍵伝
-27,Matt Silver(A),146,1707,,HEROIC WORKOUT!!
-28,MEGAERA(A),206,1790,,召しませ！BISTROVER Europeエリア
+27,Matt Silver(A),146,1707,連打、軸,HEROIC WORKOUT!!
+28,MEGAERA(A),206,1790,後半難、CN,召しませ！BISTROVER Europeエリア
 27,Megalara Garuda(A),180,1543,CN,毎週！いちかの超BEMANIラッシュ2020
 15,MENDES(A),168,1831,前半難、高密度発狂、皿複合,MILITARY SPLASH #2 ONE MORE EXTRA STAGE、SP中伝(cop)、SP中伝(SB)、SP中伝(CB)、SP中伝(Rootage)、SP中伝(HV)
 22,Monopole.(A),201,1729,CN、BSS、縦連、二重トリル,
 9,moon_child(A),130-160,1300,階段、同時押し、ラス殺し,SP九段(CS INFINITAS)
 17,mosaic(A),188,1509,同時押し特化,PARALLEL ROTATION GOLD
+29,n/a(A),85-255,1867,BSS、MSS、ソフラン,PLATFORM X:Hideout
 22,NEO GENERATOR SEVEN(A),182,1690,軸、皿複合,Chrono Seeker
 20,neu(A),199,1999,同時押し、階段、終盤難,LIMIT BURST
 18,New Castle Legions(A),120-180,1418,ソフラン、CN,Rootage復活曲 新譜面
@@ -155,36 +168,41 @@ ver,曲名,BPM,notes,属性,詳細攻略
 25,NITROUS CANNON(A),169,1875,乱打、皿絡み、縦連打、連皿,CANNON BALLERSサントラ発売記念
 19,NNRT(A),101-202,1780,ソフラン、同時押し、乱打,Lincle Kingdom、SP十段(SPA)
 23,NZM(A),190,1783,HCN、階段,Season Line ONE MORE EXTRA STAGE
+29,One for All(A),195,1632,局所難,BPL TOURISM EXTRA part 5
 10,One More Lovely(A),200,1452,螺旋、乱打、ラス殺し,ONE MORE EXTRA STAGE
 26,ONIGOROSHI(A),400,1541,軸、HBSS,ARC SCORE
 9,one or eight(A),155,1177,序盤発狂、皿、縦連打,
 15,oratio(A),162,1493,裏軸押し、終盤難,
-27,ORCA(A),155,1795,,毎週！いちかの超BEMANIラッシュ2020
+27,ORCA(A),155,1795,高速階段,毎週！いちかの超BEMANIラッシュ2020
 24,OTENAMI Hurricane(A),215,1643,皿複合,
 26,Painful Fate(A),192,1702,CN、乱打,蜃気楼の図書館
 25,Papilio ulysses(A),180,1498,CN、連皿,IIDX AIR RACE ONE MORE EXTRA STAGE
 18,PARADISE LOST(A),200,1718,CN、乱打、皿、ラス殺し,WORLD TOUR
 15,PARANOiA ～HADES～(A),75-300,1395,ソフラン、トリル,ONE MORE EXTRA STAGE
-28,Pārvatī(A),205,1467,,召しませ！BISTROVER North Americaエリア
+28,Pārvatī(A),205,1467,高速、皿複合,召しませ！BISTROVER North Americaエリア
 18,perditus†paradisus(A),172,2065,CN、階段、ラス殺し,WORLD TOUR、SP皆伝(LC)、SP皆伝(cop)
 25,Persephone(A),155,1539,連皿、二重階段,IIDX AIR RACE
 20,Plan 8(A),212,1690,高速連皿、ラス殺し,LEGEND CROSS ONE MORE EXTRA STAGE
+29,PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.(A),178,2271,物量,CastHour SPACE:Cinema IIDX
 8,PLEASE DON'T GO(A),135,1251,皿、縦連、局所難、ラス殺し,
 26,Please Welcome Mr.C(A),230,1522,ハネリズム、皿複合,DELABITY LABORATORY
 23,POSSESSION(A),23-185,1521,CN、ソフラン、同時押し,Mystery Line、SP十段(HV)
-27,Primitive Vibes(A),150,1564,,
+27,Primitive Vibes(A),150,1564,連打、連皿,
 20,Proof of the existence(A),170,1675,ズレ、トリル、ラス殺し,Ω-ATTACK SECTOR B BOSS、SP十段(cop)
 21,PUNISHER(A),180,1812,乱打、デニム,熱闘！BEMANIスタジアム
+29,Purple Perplex(A),150,1578,CN、BSS、MSS、連皿,
+29,Push on Beats!～音ゲの国のeX-ストリーマー～(A),164-172,1748,デニム、高速階段、皿複合,CastHour OST TOURISM
 24,Quakes(A),190,1654,HCN、ラス殺し,忍々七鍵伝
 19,quaver♪(A),182-186,1745,トリル、乱打、微ソフラン、ラス殺し,Lincle LINK 第5弾
 17,quell～the seventh slave～(A),162,1646,局所発狂、皿複合,CS DistorteD移植曲、SP中伝(CS INFINITAS)
 21,ra'am(A),111-222,1461,CN、ソフラン、高速皿複合,Qprogue
 12,rage against usual(A),152,1527,皿複合、中盤発狂、二重階段,
+29,RAGE feat.H14 of LEONAIR(A),166,1886,MSS、連皿,PLATFORM X2:Hideout II
 24,RAIN(A),159,1657,CN、乱打,BUZRA ARTS
 25,Rampage(A),195,1831,同時押し、BSS、乱打、ラス殺し,激走!キャノンレーサー
 25,Raspberry Railgun(A),142,1606,皿絡み、二重階段,IIDX AIR RACE
 24,Rave Cannon(A),160,1700,乱打、CN、BSS,BUZRA ARTS、SP十段(Rootage)
-27,Rave Patroller(A),175,1705,,HEROIC WORKOUT!!
+27,Rave Patroller(A),175,1705,乱打,HEROIC WORKOUT!!
 22,Rave*it!! Rave*it!!(A),282,1656,CN、同時押し特化、多重軸、全押し,Qpronicle Chord
 17,Red. by Full Metal Jacket(A),158,1643,連皿、皿複合,
 26,Red. by Jack Trance(A),160,1862,連皿、BSS、皿複合,ARC SCORE
@@ -192,7 +210,7 @@ ver,曲名,BPM,notes,属性,詳細攻略
 23,refrain(A),158,1857,二重階段、ラス殺し,
 18,reunion(A),184,1677,XX譜面、縦連、局所発狂、トリル、階段、全押し,SP十段(tri)、SP十段(SPA)、SP十段(cop)、SP十段(SB)、SP十段(Rootage)、SP十段(HV)
 15,Ristaccia(A),160,1386,同時押し、階段,
-28,rommmo(A),208,1762,,
+28,rommmo(A),208,1762,高速、軸,
 26,ruin of opals(A),220-390,1646,ソフラン、乱打、縦連打、CN、ズレ、ラスト減速,DELABITY LABORATORY
 18,sakura storm(A),184,1225,CN,
 24,SAY BAY(A),165,1455,CN、BSS、連皿、皿複合、二重階段,SP九段(Rootage)
@@ -205,14 +223,17 @@ ver,曲名,BPM,notes,属性,詳細攻略
 22,Shooting Fireball(A),160,1983,乱打、縦連,Qpronicle Chord
 21,Sigmund(A),200,2029,CN、階段、連皿、ラス殺し,Spada†leggendaria
 28,Sinus Iridum(A),128-256,1803,CN、ソフラン,BISTRO LANDING ONE MORE EXTRA
+29,Skreaming for Salvation(A),200,1625,高速、連皿,
 24,Sky High(A),153,1943,乱打、デニム,攻城シノバズ伝、SP中伝(Rootage)
 25,Slipstream(A),175,1822,乱打、皿絡み,IIDX AIR RACE
-27,Smashing Wedge(A),215,1957,,HEROIC WORKOUT!!
+29,Silver Bullet(A),152-172,1662,連打、坂譜面,CastHour SPACE:Twinkroom
+29,Smalt #28598F(A),151,1725,皿複合、二重階段、ラス殺し,PLATFORM X2:Hideout II
+27,Smashing Wedge(A),215,1957,高速、皿複合,HEROIC WORKOUT!!
 19,Snake Stick(A),145,1447,連皿、皿複合,SP中伝(Rootage)
 24,Snakey Kung-fu(A),156,1751,HCN、乱打,SP中伝(HV)
 20,Sol Cosine Job 2(A),190-200,1625,乱打、皿複合、ソフラン、BSS,LIMIT BURST
 17,SOLID STATE SQUAD(A),155,1819,皿、トリル、軸、中盤発狂,CS DistorteD移植曲
-28,SOLID STATE SQUAD -RISEN RELIC REMIX-(A),186,1670,,召しませ！BISTROVER Europeエリア
+28,SOLID STATE SQUAD -RISEN RELIC REMIX-(A),186,1670,CN、乱打,召しませ！BISTROVER Europeエリア
 22,Sounds of Summer(A),175,1513,トリル,BEMANI SUMMER DIARY 2015
 22,SpaceLand☆TOYBOX(A),172,1501,乱打、階段,
 18,SPECIAL SUMMER CAMPAIGN!(A),168,1509,同時押し、乱打、デニム,Lincle LINK 第1弾
@@ -224,7 +245,7 @@ ver,曲名,BPM,notes,属性,詳細攻略
 22,Symmetry(A),163,1659,乱打、対称、皿絡み,Chrono Seeker
 20,SYNC-ANTHEM(A),160-166,1865,乱打、ソフラン、長いラス殺し,LEGEND CROSS BOSS
 27,TECHNO Style Essentials(A),154,1453,CN,
-27,THE BRAVE MUST DIE(A),215,2075,,
+27,THE BRAVE MUST DIE(A),215,2075,高速、軸、ラス殺し,
 25,The Chase(A),142,1148,連皿、24分連皿、連皿+トリル、BSS,
 26,THE DAY OF JUBILATIONS(A),181,1757,乱打、CN,
 27,THE F∀UST(A),170,1851,ラス殺し,HEROIC WORKOUT!!
@@ -241,10 +262,12 @@ ver,曲名,BPM,notes,属性,詳細攻略
 20,Timepiece phase II(CN Ver) (A),287,1544,CN、縦連,LIMIT BURST
 19,Todestrieb(A),185,1733,階段、CN,Lincle Kingdom
 24,TOGAKUSHI(A),152,1343,HCN,
+29,TOMAHAWK(A),215,1830,連皿,BPL TOURISM EXTRA part 4
 22,TOXIC VIBRATION(A),197,1933,トリル、階段,SOUND HOLIC「斬 -ZAN-」
-27,T-REX vs Velociraptor (In the Far east euphoria)(A),200,1636,,
+27,T-REX vs Velociraptor (In the Far east euphoria)(A),200,1636,トリル、坂譜面,
 26,Trill auf G(A),188,1670,乱打、中盤難,いちかのBEMANI投票選抜戦2019
 23,Triple Counter(A),216,2016,高速、CN、同時押し、皿絡み,
+29,Triple Cross(A),196,1667,CN,BEMANI 2021真夏の歌合戦5番勝負
 27,TRIUMPH(A),183,1724,CN、BSS,
 15,TROOPERS(A),177,1496,皿複合、同時押し,MILITARY SPLASH #1 ONE MORE EXTRA STAGE
 20,True Blue(A),164,1898,乱打、ラス殺し,Café de Tran
@@ -254,32 +277,36 @@ ver,曲名,BPM,notes,属性,詳細攻略
 14,VANESSA(A),185,1228,皿、二重階段,GOLD EXTRA専用曲
 24,Venom(A),190,1624,トリル,EXPERT MODE
 21,Verflucht(A),180,1805,二重階段、二重トリル,Spada†leggendaria
-27,Vinculum stellarum(A),160,1873,,いちかのBEMANI超じゃんけん大会2020
-28,Viridian(A),161,1700,,召しませ！BISTROVER Asiaエリア
+27,Vinculum stellarum(A),160,1873,乱打、局所難、ラス殺し,いちかのBEMANI超じゃんけん大会2020
+28,Viridian(A),161,1700,乱打,召しませ！BISTROVER Asiaエリア
 26,Visterhv(A),191,1869,乱打、終盤難,DELABITY LABORATORY
 28,Vitrum(A),146,1848,CN,
 26,voltississimo(A),225,1888,高速、二重配置、同時押し,いちかのBEMANI投票選抜戦2019
 21,VOX UP(A),202,1870,皿、軸、トリル、二重トリル、前半難,CS DJT移植曲
+29,WHA(A),108,1946,連皿,CastHour SPACE:Beat Showcase
 18,Watch Out Pt.2(A),148,1506,連皿、皿複合,
 22,We're so Happy (P*Light Remix) IIDX ver.(A),185,1896,乱打、皿複合,IIDX 21 SPADA OST VOL.2 特典
 19,WONDER WALKER(A),165,1921,乱打,Lincle LINK 第3弾
 23,X(A),180,1952,デニム,Mystery Line phase3
 26,Xlø(A),165,1988,乱打、連皿、トリル,
-25,Xperanza(A),200,1637,CN,
+25,Xperanza(A),200,1637,皿複合、CN,
 19,YAKSHA(A),190,2000,繰り返し乱打、軸,Lincle Kingdom
 16,Y&Co. is dead or alive(A),145-876,1478,ソフラン,CB復活曲 黒譜面に差し替え
 20,Zirkfied(A),210,1968,乱打、デニム、縦連、ラス殺し,みんなで宇宙戦争
 22,ZZ(A),154,1541,CN、二重階段,
 28,-65℃(A),186,1912,CN,BISTRO LANDING ONE MORE EXTRA
 23,199024club -Re:BounceKiller-(A),143,1260,連皿、終盤難,SP中伝(HV)
+29,2 Beasts Unchained(A),175,1780,連皿,X-record
 25,255(A),255,1676,トリル、軸、皿絡み、ガチ押し,激走!キャノンレーサー
 28,二人ノ廃城幽踊宴(A),280-316,1927,ソフラン,召しませ！BISTROVER North Americaエリア
+29,天邪鬼(A),155,1693,連打、乱打,CastHour SPACE:Beat Showcase
 28,3!dolon forc3(A),96-191,1513,ソフラン,The 4th 20周年記念イベント
 16,3y3s(A),191,1871,序盤発狂、皿複合、二重カプセル配置、前半難,ONE MORE EXTRA STAGE
 23,紫陽花 -AZISAI-(A),155,1490,CN、二重階段、終盤難,Season Line、SP十段(CB)
-20,アストライアの双皿(A),173,1632,CN、連続二重縦連,Café de Tran
 28,バッド・スイーツ、バッド・ドリーム(A),220,1862,HCN、BSS、皿絡み,召しませ！BISTROVER Northern Landエリア
+20,アストライアの双皿(A),173,1632,CN、連続二重縦連,Café de Tran
 22,紅牡丹(A),181,1445,乱打、皿複合,
+29,雪上断火(A),105-180,1544,連皿、ソフラン,CastHour SPACE:FUTURE SCOPE INFINITAS移植曲
 24,刃図羅(A),165,1746,乱打、皿絡み,BUZRA ARTS ONE MORE EXTRA STAGE
 26,お菓子の王国(A),190,2109,物量、ズレ、中盤発狂、終盤発狂,DELABITY LABORATORY
 19,子供の落書き帳(A),280,1395,軸、序盤発狂、トリル,CS DJT移植曲
@@ -294,10 +321,11 @@ ver,曲名,BPM,notes,属性,詳細攻略
 27,魅惑のYUMMYスイーツ(A),208,1586,CN,SHADOW REBELLION
 14,電人、暁に斃れる。(A),165,1725,乱打、縦連、局所難,VIP ROOM
 16,不沈艦CANDY(A),188,1682,同時押し、トリル、中盤発狂、ラス殺し,ONE MORE EXTRA STAGE、SP十段(PEN)
-27,がっつり陰キャ!?怪盗いいんちょの億劫^^;(A),185,2192,,SHADOW REBELLION
+27,がっつり陰キャ!?怪盗いいんちょの億劫^^;(A),185,2192,高密度、同時押し、皿複合,SHADOW REBELLION
 28,閠槞彁の願い(A),180,1613,HCN,召しませ！BISTROVER Asiaエリア
 24,焱影(A),136,1437,連皿,
 16,卑弥呼(A),82-185,2119,階段、二重階段、軸押し、連続縦連、トリル、ソフラン,EMPRESS PLACE ONE MORE EXTRA STAGE、SP皆伝(cop)、SP皆伝(HV)
+29,烽火連天の刃(A),190,1771,CN,CastHour SPACE:Cinema IIDX
 22,表裏一体！？怪盗いいんちょの悩み♥(A),165,1815,二重階段、皿複合,
 24,イザナミノナゲキ(A),195,1661,CN、同時押し、階段、ズレ,攻城シノバズ伝
 13,カゴノトリ～弐式～(A),140,1325,同時押し、乱打、終盤難,元☆11(GOLDで昇格)
@@ -310,12 +338,14 @@ ver,曲名,BPM,notes,属性,詳細攻略
 20,キャトられ♥恋はモ～モク(A),196,1988,乱打、軸、皿複合,ぼくらの宇宙戦争
 22,共鳴遊戯の華(A),190,2000,CN,Qpronicle Chord
 24,九尾狐夜行(A),145,1521,高速トリル,攻城シノバズ伝
+29,"ピアノ独奏無言歌 ""灰燼""(A)",100-200,1977,ソフラン,BEMANI SYMPHONY TOURISM
 21,疾風迅雷(A),180,1493,乱打、軸、縦連打、終盤難,Spada†leggendaria
 22,リリーゼと炎龍レーヴァテイン(A),200,1771,CN、階段、軸,Coca-Cola×BEMANI
 28,魔法のかくれんぼ(A),178-208,1454,CN、ソフラン,
 24,#MAGiCVLGiRL_TRVP_B3VTZ(A),100,1753,同時押し、CN、軸、ズレ、ラス殺し,
 12,冥(A),66-200,2000,階段、ソフラン、中盤加速発狂,ONE MORE EXTRA STAGE、SP皆伝(cop)、SP皆伝(HV)
 23,めいさいアイドル☆あいむちゃん♪(A),160,1717,階段、皿複合,
+29,禊(A),160,1631,CN,CastHour SPACE:Cyber House
 13,嘆きの樹(A),160,2000,繰り返し乱打、同時押し、デニム発狂、螺旋階段発狂、後半難,CARDINAL GATE ONE MORE EXTRA STAGE、SP皆伝(HV)
 20,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)(A),190,1835,乱打、同時押し、軸押し、皿複合,Café de Tran
 22,夏色DIARY - L.E.D.-G STYLE MIX -(A),190,1590,CN,BEMANI SUMMER DIARY 2015
@@ -323,9 +353,10 @@ ver,曲名,BPM,notes,属性,詳細攻略
 20,音楽(A),210-360,1487,縦連、ソフラン,みんなで宇宙戦争
 11,ピアノ協奏曲第１番”蠍火”(A),165-185,1414,階段、皿、縦連、ラス殺し,ONE MORE EXTRA STAGE
 27,ピアノ協奏曲第1番”蠍火” (BlackY Remix)(A),160,1926,CN、ラス殺し,LIGHTNING MODEL先行曲 Tribute BEST収録楽曲
-28,世界の果てに約束の凱歌を -ReUnion-(A),200,1983,,The 10th KACエントリー特典
+28,世界の果てに約束の凱歌を -ReUnion-(A),200,1983,高速、同時押し、CN,The 10th KACエントリー特典
 27,深淵に捧ぐレクイエム(A),175,1537,CN,
 8,桜(A),13-320,1123,序盤縦連発狂、ソフラン、同時押し,8th EXTRA専用曲
+29,逆月(A),280,1920,高密度、HCN、BSS,X-record
 20,シュレーディンガーの猫(A),187,1717,乱打、階段、皿複合,みんなで宇宙戦争
 19,聖人の塔(A),97-194,1567,階段、トリル、ソフラン,Lincle Kingdom
 22,千年ノ理(A),153,1608,乱打、終盤難,
@@ -340,7 +371,7 @@ ver,曲名,BPM,notes,属性,詳細攻略
 20,即席！脳直★ミュージックシステム(A),197,1838,皿複合、乱打,ぼくらの宇宙戦争
 22,それは花火のような恋(A),182,1976,乱打、皿複合,怪盗BisCoの予告状！！
 28,水鏡の異界(A),168,1661,CN、連皿,
-28,スーパー戦湯ババンバーン(A),187,1755,,BEMANI 2021真夏の歌合戦5番勝負
+28,スーパー戦湯ババンバーン(A),187,1755,皿複合，同時押し,BEMANI 2021真夏の歌合戦5番勝負
 20,たまゆら(A),180,1407,同時押し、皿複合、終盤難,CS EMPRESS移植曲
 19,天空の夜明け(A),150,2072,高密度乱打、縦連,Lincle Kingdom ONE MORE EXTRA STAGE、SP皆伝(tri)
 23,真 地獄超特急 -HELL or HELL-(A),165,1727,HCN、連皿、皿複合,開通！とことこライン
@@ -349,7 +380,7 @@ ver,曲名,BPM,notes,属性,詳細攻略
 20,トリカゴノ鳳凰(A),185,1932,CN、微縦連、皿複合,Ω-ATTACK SECTOR A BOSS
 24,津軽雪(A),160,1953,乱打、縦連、局所難,攻城シノバズ伝
 28,∀(A),180,1802,ラス殺し,
-28,伐折羅-vajra-(A),173,1877,,召しませ！BISTROVER North Americaエリア
+28,伐折羅-vajra-(A),173,1877,トリル、二重階段,召しませ！BISTROVER North Americaエリア
 27,華麗なる大犬円舞曲(A),60-147,1849,ソフラン,SHADOW REBELLION
 17,"ワルツ第17番 ト短調""大犬のワルツ""(A)",230-320,1684,ソフラン、縦連、階段,PARALLEL ROTATION IIDX RED、SP十段(PEN)、SP十段(CS INFINITAS)
 21,海神(A),159,1629,CN、皿複合,発見！よみがえったBEMANI遺跡
