@@ -24,7 +24,7 @@ def ParseDifficultAndSelectNum(content, mode='insane'):
     message_list = content.split(' ')
     
     # メッセージから難易度指定と選曲回数をパース
-    if mode == 'insane':
+    if mode == 'insane' or mode == 'bms':
         difficult = UNDEF_DIFF
         select_num = 1
         
