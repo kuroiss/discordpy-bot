@@ -5,6 +5,13 @@ import os
 
 UNDEF_DIFF = '1-25'
 
+def GetChallengeString(challenges):
+    reply_message = ""
+    for challenge in challenges:
+        reply_message += challenge + '\n'    
+        
+    return reply_message
+
 def isint(s):  # 整数値を表しているかどうかを判定
     try:
         int(s, 10)  # 文字列を実際にint関数で変換してみる
@@ -48,10 +55,9 @@ def ParseDifficultAndSelectNum(content, mode='insane'):
         else:
             difficult = int(message_list[1])
             select_num = int(message_list[2])
-            
-    print(difficult, select_num)
+
     return difficult, select_num
-    
+
 client_intents = discord.Intents.default()
 client = discord.Client(intents=client_intents)
 tree = app_commands.CommandTree(client)
@@ -61,10 +67,39 @@ async def on_ready():
     print("on ready")
     await tree.sync()
 
-@tree.command(name="hoge", description="fuga")
-async def test_command(interaction: discord.Interaction):
-    await interaction.response.send_message("piyo")
-    
+# TODO : そのうち重複してる処理はまとめたいけど、今はめんどいからコピペでいいや
+@tree.command(name="beat12", description="throw a Beatmania Level12 request.")
+async def request_command_beat12(interaction: discord.Interaction, select_num:int = 1):
+    diff = '12'
+    message = GetChallengeString(RandomSelect.GetBeatmaniaChallenge(diff, select_num))
+    await interaction.response.send_message(message)
+
+@tree.command(name="beat", description="throw Beatmania requests(Level 11 - 12).")
+async def request_command_beatmania(interaction: discord.Interaction, diff:str, select_num:int = 1):
+    message = GetChallengeString(RandomSelect.GetBeatmaniaChallenge(diff, select_num))
+    await interaction.response.send_message(message)
+
+@tree.command(name="dance", description="throw DDR requests(level 11 - 19).")
+async def request_command_dance(interaction: discord.Interaction, diff:str, select_num:int = 1):
+    message = GetChallengeString(RandomSelect.GetDanceChallenge(diff, select_num))
+    await interaction.response.send_message(message)
+
+@tree.command(name="ddr", description="throw DDR requests(level 11 - 19).")
+async def request_command_ddr(interaction: discord.Interaction, diff:str, select_num:int = 1):
+    message = GetChallengeString(RandomSelect.GetDanceChallenge(diff, select_num))
+    await interaction.response.send_message(message)
+
+@tree.command(name="bms", description="throw BMS Insane requests(★1 - 25).")
+async def request_command_bms(interaction: discord.Interaction, diff:str, select_num:int = 1):
+    message = GetChallengeString(RandomSelect.GetInsaneChallenge(diff, select_num))
+    await interaction.response.send_message(message)
+
+@tree.command(name="insane", description="throw BMS Insane requests(★1 - 25).")
+async def request_command_insane(interaction: discord.Interaction, diff:str, select_num:int = 1):
+    message = GetChallengeString(RandomSelect.GetInsaneChallenge(diff, select_num))
+    await interaction.response.send_message(message)
+
+
 @client.event
 async def on_message(message):
     if message.author.bot:
@@ -75,7 +110,7 @@ async def on_message(message):
     if bot_mention_str in message.content:
         if 'insane' in message.content:
             difficult, select_num = ParseDifficultAndSelectNum(message.content)
-                    
+            
             # 課題一覧を取得する
             challenge_set = RandomSelect.GetInsaneChallenge(difficult, select_num)
             

@@ -83,7 +83,7 @@ def CreateBeatDictionary(lower, upper):
 def GetBeatmaniaChallenge(difficult='12', select_num=1):
     random.seed(time.time())
     
-    lower_diff = 11
+    lower_diff = 7
     upper_diff = 12
     
     lower_diff, upper_diff = ParseDifficult(difficult)
@@ -109,7 +109,7 @@ def CreateDanceDictionary(lower, upper):
 def GetDanceChallenge(difficult='15', select_num=1):
     random.seed(time.time())
     
-    lower_diff = 15
+    lower_diff = 11
     upper_diff = 19
     
     lower_diff, upper_diff = ParseDifficult(difficult)
