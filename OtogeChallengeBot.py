@@ -108,7 +108,7 @@ async def on_message(message):
     bot_mention_str = '<@' + str(client.user.id) + '>'
     
     if bot_mention_str in message.content:
-        if 'insane' in message.content:
+        if 'insane' in message.content or 'bms' in message.content:
             difficult, select_num = ParseDifficultAndSelectNum(message.content)
             
             # 課題一覧を取得する
@@ -132,7 +132,7 @@ async def on_message(message):
             
             await message.channel.send(reply_message)
 
-        elif 'dance' in message.content:
+        elif 'dance' in message.content or 'ddr' in message.content:
             difficult, select_num = ParseDifficultAndSelectNum(message.content)
             
             challenge_set = RandomSelect.GetDanceChallenge(difficult, select_num)
