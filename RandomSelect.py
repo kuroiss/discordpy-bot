@@ -103,7 +103,6 @@ def CreateDanceDictionary(lower, upper):
         music_table = pd.read_csv(csv_path)
         for title in music_table['曲名']:
             dance_dict[title] = str(level)
-        # beat_dict.update(zip(music_table['曲名'], level))
     return dance_dict
 
 def GetDanceChallenge(difficult='15', select_num=1):
@@ -122,6 +121,41 @@ def GetDanceChallenge(difficult='15', select_num=1):
         
     return challenge_set
 
+def CreatePopnDictionary(lower, upper):
+    popn_dict = dict()
+    for level  in range(lower, upper + 1):
+        csv_path = './PopnTable/popn_' + str(level) + '.csv'
+        music_table = pd.read_csv(csv_path)
+        title_table = music_table['曲名']
+        junre_table = music_table['ジャンル名 (タイプ)']
+        for index in range(len(title_table)):
+            music_title = title_table[index]
+            music_junre = junre_table[index]
+            dict_index = ""
+            if(music_title != music_junre):
+                dict_index = music_junre + " (" + music_title + ")"
+            else:
+                dict_index = music_title
+                
+            popn_dict[dict_index] = str(level)
+    
+    return popn_dict
+
+def GetPopnChallenge(difficult='46', select_num=1):
+    random.seed(time.time())
+    
+    lower_diff = 40
+    upper_diff = 50
+    
+    lower_diff, upper_diff = ParseDifficult(difficult)
+    popn_dict = CreatePopnDictionary(lower_diff, upper_diff)
+    
+    challenge_set = set()
+    while len(challenge_set) < select_num:
+        title, level = random.choice(list(popn_dict.items()))
+        challenge_set.add(level + ' ' + title)
+        
+    return challenge_set
 
 def main():
     print('random select (11 - 12) \n')

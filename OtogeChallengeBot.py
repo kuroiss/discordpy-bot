@@ -99,6 +99,15 @@ async def request_command_insane(interaction: discord.Interaction, diff:str, sel
     message = GetChallengeString(RandomSelect.GetInsaneChallenge(diff, select_num))
     await interaction.response.send_message(message)
 
+@tree.command(name="popn", description="throw Popn requests(40 - 50).")
+async def request_command_insane(interaction: discord.Interaction, diff:str, select_num:int = 1):
+    message = GetChallengeString(RandomSelect.GetPopnChallenge(diff, select_num))
+    await interaction.response.send_message(message)
+
+@tree.command(name="p", description="throw Popn requests(40 - 50).")
+async def request_command_insane(interaction: discord.Interaction, diff:str, select_num:int = 1):
+    message = GetChallengeString(RandomSelect.GetPopnChallenge(diff, select_num))
+    await interaction.response.send_message(message)
 
 @client.event
 async def on_message(message):
@@ -136,6 +145,19 @@ async def on_message(message):
             difficult, select_num = ParseDifficultAndSelectNum(message.content)
             
             challenge_set = RandomSelect.GetDanceChallenge(difficult, select_num)
+            
+            reply_message = '<@'+ str(message.author.id) +'>\n'
+            for challenge in challenge_set:
+                reply_message += challenge + '\n'
+            
+            await message.channel.send(reply_message)
+
+        elif 'popn' in message.content or 'p' in message.content:
+            difficult, select_num = ParseDifficultAndSelectNum(message.content)
+            
+            print("difficult", difficult)
+            
+            challenge_set = RandomSelect.GetPopnChallenge(difficult, select_num)
             
             reply_message = '<@'+ str(message.author.id) +'>\n'
             for challenge in challenge_set:
